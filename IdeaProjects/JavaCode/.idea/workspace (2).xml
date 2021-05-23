@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e90d60c-0100-4652-8da0-1d5d11d4116a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l7xRWrdKNwnXIyhGAUd5BrS13Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.Long">
+    <configuration name="Long" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Long" />
+      <module name="JavaCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="JavaCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Long" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e90d60c-0100-4652-8da0-1d5d11d4116a" name="Default Changelist" comment="" />
+      <created>1606961922692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606961922692</updated>
+      <workItem from="1606961927223" duration="1395000" />
+      <workItem from="1606963821824" duration="292000" />
+      <workItem from="1606972008667" duration="2553000" />
+      <workItem from="1606985371786" duration="4879000" />
+      <workItem from="1607005970749" duration="1458000" />
+      <workItem from="1607045762306" duration="1654000" />
+      <workItem from="1607172167141" duration="8204000" />
+      <workItem from="1607221673047" duration="1914000" />
+      <workItem from="1607235446643" duration="856000" />
+      <workItem from="1607304586627" duration="17389000" />
+      <workItem from="1607344415443" duration="1558000" />
+      <workItem from="1607390770811" duration="891000" />
+      <workItem from="1607426050782" duration="700000" />
+      <workItem from="1607524068201" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="273" key="#Notifications" timestamp="1607392432556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="675" y="273" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1607392432556" />
+    <state width="1285" height="191" key="GridCell.Tab.0.bottom" timestamp="1607351932603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1285" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607351932603" />
+    <state width="1285" height="191" key="GridCell.Tab.0.center" timestamp="1607351932603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1285" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607351932603" />
+    <state width="1285" height="191" key="GridCell.Tab.0.left" timestamp="1607351932603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1285" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607351932603" />
+    <state width="1285" height="191" key="GridCell.Tab.0.right" timestamp="1607351932603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1285" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607351932603" />
+    <state x="-263" y="73" width="996" height="707" key="SettingsEditor" timestamp="1606962625232">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-263" y="73" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606962625232" />
+    <state x="202" y="21" key="new project wizard" timestamp="1607392201174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="202" y="21" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1607392201174" />
+    <state x="418" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1607182086143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607182086143" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaCode$Test.ic" NAME="Test Coverage Results" MODIFIED="1606963227075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
