@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>计算器--Ajax</title>
+    <script src="jquery-1.9.1.min.js"></script>
+    <script>
+        function mysub(type) {
+            var inputnum1 = jQuery("#num1");
+            var inputnum2 = jQuery("#num2");
+            if(inputnum1.val()==""){
+                alert("第一个数字没输入呢!");
+                //光标聚焦
+                inputnum1.focus();
+                return false;
+            }
+            if(inputnum2.val()==""){
+                alert("第二个数字没输入呢!");
+                inputnum2.focus();
+                return false;
+            }
+            if(type==2){
+                if(confirm("确认清空?")){
+                    inputnum1.val("");
+                    inputnum2.val("");
+                }
+                return false;
+            }
+            if(type==1){
+                jQuery.getJSON("mycalc",{
+                    "number1":jQuery("#num1").val(),
+                    "number2":jQuery("#num2").val()
+                },
+                    function (data) {
+                        if(data!=null && data.succ==1){
+                            alert(data.sum);
+                        }else{
+                            alert(data.msg);
+                        }
+                    }
+                )
+            }
+        }
+    </script>
+</head>
+<body>
+<div style="margin-top:100px;text-align: center">
+    <h1>我的计算器--Ajax版本</h1>
+    数字1:<input id="num1" name="num1" type="number"><p></p>
+    数字2:<input id="num2" name="num2" type="number"><p></p>
+    <input type="button" value="提 交" onclick="mysub(1)">
+    <input type="button" value="清 空" onclick="mysub(2)">
+</div>
+</body>
+</html>
